@@ -1,0 +1,354 @@
+[
+  {
+    "productId": 1,
+    "productName": "Fular Azul Semielastico",
+    "productDetail": "Nuestro fular Azul Rey semielastico Ranita, es un portabebe ergonomico elaborado en tela 100% algodon, siendo un material termo regulador que permite mantener fresco a tu bebe.",
+    "category": "featured",
+    "color": ["color__three"],
+    "gender":{
+      "categoryName": "woman",
+      "subCategory":"sandals"
+    },
+    "size": ["Unitalla"],
+    "stars": 4,
+    "imageUrl": "https://scontent.cdninstagram.com/v/t39.30808-6/427945506_17961626006708087_4885451318040441349_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_ohc=D3Be1IrNxUoAX_AB3Ee&edm=APs17CUAAAAA&ccb=7-5&ig_cache_key=MzMwMjYzNzAxMjM0MjQ3NjIzMA%3D%3D.2-ccb7-5&oh=00_AfB3pDdXp3Pr9OObasecxyhTc-wpQSGvej1jEPUuLlGl1w&oe=65DDE1DB&_nc_sid=10d13b",
+    "listPrice": null,
+    "price": 540,
+    "installments": [
+      {
+        "quantity": 1,
+        "value": 540
+      }
+    ]
+  },
+  {
+    "productId": 2,
+    "productName": "Fular Verde Militar",
+    "productDetail": "little desccription of th product to capture clients attention dolelorem ipsumfsfic dsidhffk jfdh djdhdj.",
+    "category": "recommended",
+    "color": [ "color__three", "color__one"],
+    "gender":{
+      "categoryName": "woman",
+      "subCategory":"sandals"
+    },
+    "size": ["Unitalla"],
+    "stars": 2,
+    "imageUrl": "https://scontent.fmlm3-1.fna.fbcdn.net/v/t39.30808-6/344218759_242101378399569_2740359435843069311_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=pvxLAHO9aIkAX_qWELq&_nc_ht=scontent.fmlm3-1.fna&oh=00_AfAGYTZ7262uxHkqszfziWXX2ifarSZZtkCZbfsXmLVdHQ&oe=65DF05C4",
+    "listPrice": 540,
+    "price": 540,
+    "installments": [
+      {
+        "quantity": 1,
+        "value": 540
+      }
+    ]
+  },
+  {
+    "productId": 3,
+    "productName": "Fular Amarillo",
+    "productDetail": "little desccription of th product to capture clients attention dolelorem ipsumfsfic dsidhffk jfdh djdhdj.",
+    "category": "featured",
+    "color": ["color__three", "color__two"],
+    "gender":{
+      "categoryName": "woman",
+      "subCategory":"top"
+    },
+    "size": [ "37", "38", "39", "40"],
+    "stars": 2,
+    "imageUrl": "https://scontent.fmlm3-1.fna.fbcdn.net/v/t39.30808-6/341254019_463959015883272_3678094789328288948_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=cYooPWnxXS8AX_VlD3R&_nc_ht=scontent.fmlm3-1.fna&oh=00_AfATLCJzcqIB_tquQ1bvdZr1N_iypleg-u3NK79U7LjRWQ&oe=65DD9BB8",
+    "listPrice": 540,
+    "price": 540,
+    "installments": [
+      {
+        "quantity": 1,
+        "value": 540
+      }
+    ]
+  },
+  {
+    "productId": 4,
+    "productName": "OtroProducto",
+    "productDetail": "little desccription of th product to capture clients attention dolelorem ipsumfsfic dsidhffk jfdh djdhdj.",
+    "category": "recommended",
+    "color": ["color__three", "color__one", "color__two"],
+    "gender":{
+      "categoryName": "woman",
+      "subCategory":"sandals"
+    },
+    "size": ["x", "s", "m", "l", "xl"],
+    "stars": 5,
+    "imageUrl": "https://scontent.cdninstagram.com/v/t39.30808-6/423224074_349603017873373_2581283518386032886_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_ohc=3CgcNbycppQAX_7TWnN&edm=APs17CUAAAAA&ccb=7-5&ig_cache_key=MzI5MTAwNzAyNDg5MjUxMjQ0Ng%3D%3D.2-ccb7-5&oh=00_AfBonCMA2_H-EnvnA8X1rvROPGBXkW1_VkracLPy-V25MQ&oe=65DC585E&_nc_sid=10d13b",
+    "listPrice": null,
+    "price": 540,
+    "installments": [
+      {
+          "quantity": 1,
+          "value": 540
+        }
+    ]
+  },
+  {
+      "productId": 5,
+      "productName": "OtroProducto5",
+      "productDetail": "lorem ipsumfsfic dsidhffk jfdh djdhdj.",
+      "category": "featured",
+      "color": ["color__three","color__two", "color__four", "color__five"],
+      "gender":{
+        "categoryName": "woman",
+        "subCategory":"top"
+      },
+      "size": ["38", "39", "40", "41"],
+      "stars": 3,
+      "imageUrl": "https://scontent.cdninstagram.com/v/t39.30808-6/375795483_268986562601686_5072056102633241216_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_ohc=s3dezEK1QREAX9B4RfO&edm=APs17CUAAAAA&ccb=7-5&ig_cache_key=MzE4NjAxNTgwOTUxMTU2NzM0NA%3D%3D.2-ccb7-5&oh=00_AfCndz-des22vEgt7lupJtC5NwkpSHRqaB3FaxYUtIQ3Qg&oe=65DD42FC&_nc_sid=10d13b",
+      "listPrice": null,
+      "price": 540,
+      "installments": [
+        {
+          "quantity": 1,
+          "value": 540
+        }
+      ]
+    },
+    {
+      "productId": 6,
+      "productName": "OtroProducto6",
+      "productDetail": "sumfsfic dsidhffk jfdh djdhdj.",
+      "category": "recommended",
+      "color": ["color__one", "color__three", "color__two", "color__five", "color__six"],
+      "gender":{
+        "categoryName": "woman",
+        "subCategory":"top"
+      },
+      "size": ["34", "35", "36", "37", "38", "39"],
+      "stars": 1,
+      "imageUrl": "https://scontent.fmlm3-1.fna.fbcdn.net/v/t39.30808-6/398703048_300731352760540_4534461318452510307_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=q6CZk_qRUfYAX_Z7voj&_nc_ht=scontent.fmlm3-1.fna&oh=00_AfDcN6iPzfhN20Jxwlp7zgv1W-YZgLzVXBZwYIlcuqya7w&oe=65DDD050",
+      "listPrice": 540,
+      "price": 540,
+      "installments": [
+        {
+          "quantity": 1,
+          "value": 540
+        }
+      ]
+    },
+    {
+      "productId": 7,
+      "productName": "OtroProducto7",
+      "productDetail": "little desccription of th product to capture clients attention dolelorem ipsumfsfic dsidhffk jfdh djdhdj.",
+      "category": "featured",
+      "color": ["color__two", "color__one", "color__three", "color__six", "color__four"],
+      "gender":{
+        "categoryName": "woman",
+        "subCategory":"accessories"
+      },
+      "size": ["34", "35", "36", "37", "38", "39", "40", "41"],
+      "stars": 4,
+      "imageUrl": "https://scontent.fmlm3-1.fna.fbcdn.net/v/t39.30808-6/359744517_238473402319669_8429266837683057208_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=-zZeO9XCQ9oAX_KWnfc&_nc_ht=scontent.fmlm3-1.fna&oh=00_AfC5FBRiKufw5PQcvIor3Zuk8Fc1okXYAnJq9Ccmt1gwog&oe=65DF7FB5",
+      "listPrice": 540,
+      "price": 540,
+      "installments": [
+        {
+          "quantity": 1,
+          "value": 540
+        }
+      ]
+    },
+    {
+      "productId": 8,
+      "productName": "OtroProducto8",
+      "productDetail": "little desccription of th product to capture clients attention dolelorem ipsumfsfic dsidhffk jfdh djdhdj.",
+      "category": "featured",
+      "color": ["color__two", "color__one", "color__three", "color__four", "color__five"],
+      "gender":{
+        "categoryName": "woman",
+        "subCategory":"accessories"
+      },
+      "size": ["x", "s", "l", "m", "xl"],
+      "stars": 3,
+      "imageUrl": "https://scontent.fmlm3-1.fna.fbcdn.net/v/t39.30808-6/343654337_1260911501198726_6681709376018916454_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=Nb2va1sLJuYAX-4iWFx&_nc_ht=scontent.fmlm3-1.fna&oh=00_AfAUaTqoHUAZBtgyOKhd1bwn35n8wqKMWjuWdtIfr420NQ&oe=65DF7271",
+      "listPrice": 540,
+      "price": 540,
+      "installments": [
+          {
+              "quantity": 1,
+              "value": 540
+            }
+      ]
+    },
+    {
+      "productId": 9,
+      "productName": "OtroProducto9",
+      "productDetail": "little desccription of th product to capture clients attention dolelorem ipsumfsfic dsidhffk jfdh djdhdj.",
+      "category": "recommended",
+      "color": ["color__two", "color__three", "color__five"],
+      "gender":{
+        "categoryName": "men",
+        "subCategory":"shoes"
+      },
+      "size": [ "37", "38", "39", "40", "41"],
+      "stars": 4,
+      "imageUrl": "https://scontent.cdninstagram.com/v/t39.30808-6/329448897_555436106537753_3796466253377929086_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=vmlpQPM9n4MAX_YQkhZ&edm=APs17CUAAAAA&ccb=7-5&ig_cache_key=MzAzMzkxMjM2NTgxNjc4NDM4NQ%3D%3D.2-ccb7-5&oh=00_AfCLjSj7USF-d5QtcFjgWPoQ-wTTJLXkFiEgsKEGQzktvA&oe=65DCA7A2&_nc_sid=10d13b",
+      "listPrice": null,
+      "price": 540,
+      "installments": [
+        {
+          "quantity": 1,
+          "value": 540
+        }
+      ]
+    },
+    {
+      "productId": 10,
+      "productName": "OtroProducto10",
+      "productDetail": "little desccription of th product to capture clients attention dolelorem ipsumfsfic dsidhffk jfdh djdhdj.",
+      "category": "recommended",
+      "color": [ "color__three", "color__one"],
+      "gender":{
+        "categoryName": "men",
+        "subCategory":"shoes"
+      },
+      "size": ["34", "35", "36", "37", "38", "39"],
+      "stars": 2,
+      "imageUrl": "https://scontent.fmlm3-1.fna.fbcdn.net/v/t39.30808-6/343654337_1260911501198726_6681709376018916454_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=Nb2va1sLJuYAX-4iWFx&_nc_ht=scontent.fmlm3-1.fna&oh=00_AfAUaTqoHUAZBtgyOKhd1bwn35n8wqKMWjuWdtIfr420NQ&oe=65DF7271",
+      "listPrice": 540,
+      "price": 540,
+      "installments": [
+        {
+          "quantity": 1,
+          "value": 540
+        }
+      ]
+    },
+    {
+      "productId": 11,
+      "productName": "OtroProducto11",
+      "productDetail": "little desccription of th product to capture clients attention dolelorem ipsumfsfic dsidhffk jfdh djdhdj.",
+      "category": "featured",
+      "color": ["color__two", "color__one"],
+      "gender":{
+        "categoryName": "men",
+        "subCategory":"shoes"
+      },
+      "size": [ "37", "38", "39", "40"],
+      "stars": 5,
+      "imageUrl": "https://scontent.fmlm3-1.fna.fbcdn.net/v/t39.30808-6/312170830_131034149721804_5286104246927243326_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=rX9k9Q_W3dAAX_D0vyw&_nc_oc=AQleePfBKXc7SBULgG5lhfc-hicfzFm__zF8h74chUa0AnsAS372-zn5xpTXJBYPrdwlZFA-1CzEuTFbBOIDhq-V&_nc_ht=scontent.fmlm3-1.fna&oh=00_AfCqT3KzwuwSLZvcf7b5XcnxeEaA_ybFyq2HIzH_KX8Lcg&oe=65DEE857",
+      "listPrice": 540,
+      "price": 540,
+      "installments": [
+        {
+          "quantity": 1,
+          "value": 540
+        }
+      ]
+    },
+    {
+      "productId": 12,
+      "productName": "OtroProducto12",
+      "productDetail": "little desccription of th product to capture clients attention dolelorem ipsumfsfic dsidhffk jfdh djdhdj.",
+      "category": "recommended",
+      "color": ["color__two", "color__one", "color__three"],
+      "gender":{
+        "categoryName": "men",
+        "subCategory":"belt"
+      },
+      "size": ["x", "s", "m", "l", "xl"],
+      "stars": 3,
+      "imageUrl": "https://scontent.fmlm3-1.fna.fbcdn.net/v/t39.30808-6/305586410_118198874338665_6647784845765911379_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=Z7DIonhINo8AX-HUl2L&_nc_ht=scontent.fmlm3-1.fna&oh=00_AfAkRnJgF6b5RRSLOvmGl6nGn3J_G36wrZybaP_PBXLkBg&oe=65DDDC6F",
+      "listPrice": null,
+      "price": 540,
+      "installments": [
+        {
+            "quantity": 1,
+            "value": 540
+          }
+      ]
+    },
+    {
+        "productId": 13,
+        "productName": "OtroProducto",
+        "productDetail": "little desccription of th product to capture clients attention dolelorem ipsumfsfic dsidhffk jfdh djdhdj.",
+        "category": "featured",
+        "color": ["color__two", "color__three", "color__four", "color__five", "color__six"],
+        "gender":{
+          "categoryName": "men",
+          "subCategory":"jeans"
+        },
+        "size": ["38", "39", "40", "41"],
+        "stars": 2,
+        "imageUrl": "https://scontent.fmlm3-1.fna.fbcdn.net/v/t39.30808-6/338140533_527978336075660_3130081052857588372_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=3635dc&_nc_ohc=pg0p2SH2-iQAX-ty07C&_nc_ht=scontent.fmlm3-1.fna&oh=00_AfA1q9NJ298lPWMseBuKUTONeGctSldPRoFaKN365Z_aPA&oe=65DECB56",
+        "listPrice": null,
+        "price": 540,
+        "installments": [
+          {
+            "quantity": 1,
+            "value": 540
+          }
+        ]
+      },
+      {
+        "productId": 14,
+        "productName": "OtroProducto",
+        "productDetail": "little desccription of th product to capture clients attention dolelorem ipsumfsfic dsidhffk jfdh djdhdj.",
+        "category": "recommended",
+        "color": ["color__two", "color__one", "color__three", "color__four", "color__six"],
+        "gender":{
+          "categoryName": "men",
+          "subCategory":"jeans"
+        },
+        "size": ["34", "35", "36", "37", "38", "39"],
+        "stars": 4,
+        "imageUrl": "https://thumbs.dreamstime.com/b/empty-shopping-cart-vector-silhouette-empty-shopping-cart-vector-silhouette-isolated-white-background-metal-market-trolley-116674120.jpg",
+        "listPrice": 540,
+        "price": 540,
+        "installments": [
+          {
+            "quantity": 1,
+            "value": 540
+          }
+        ]
+      },
+      {
+        "productId": 15,
+        "productName": "OtroProducto",
+        "productDetail": "little desccription of th product to capture clients attention dolelorem ipsumfsfic dsidhffk jfdh djdhdj.",
+        "category": "featured",
+        "color": ["color__two", "color__one", "color__three", "color__six", "color__five"],
+        "gender":{
+          "categoryName": "men",
+          "subCategory":"belt"
+        },
+        "size": ["34", "35", "36", "37", "38", "39", "40", "41"],
+        "stars": 2,
+        "imageUrl": "https://scontent.fmlm3-1.fna.fbcdn.net/v/t39.30808-6/318778910_139754255524918_2324791053453773436_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=LPnbe8eXVlUAX8cniH1&_nc_ht=scontent.fmlm3-1.fna&oh=00_AfCAB8J0pHPTNJnVocU9Y4DHQvbEz_LbYdQLY3Xa0c38bg&oe=65DF00A2",
+        "listPrice": 540,
+        "price": 540,
+        "installments": [
+          {
+            "quantity": 1,
+            "value": 540
+          }
+        ]
+      },
+      {
+        "productId": 5,
+        "productName": "Videojuegos",
+        "productDetail": "little desccription of th product to capture clients attention dolelorem ipsumfsfic dsidhffk jfdh djdhdj.",
+        "category": "featured",
+        "color": ["color__one", "color__three"],
+        "gender":{
+          "categoryName": "men",
+          "subCategory":"accessories"
+        },
+        "size": ["x", "s", "l", "m", "xl"],
+        "stars": 3,
+        "imageUrl": "https://thumbs.dreamstime.com/b/empty-shopping-cart-vector-silhouette-empty-shopping-cart-vector-silhouette-isolated-white-background-metal-market-trolley-116674120.jpg",
+        "listPrice": null,
+        "price": 540,
+        "installments": [
+            {
+                "quantity": 1,
+                "value": 540
+              }
+        ]
+      }
+]

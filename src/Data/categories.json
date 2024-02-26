@@ -1,0 +1,62 @@
+[
+    {
+        "categoryId": 1,
+        "categoryName": "Fulares",
+        "subCategory": [
+            {
+                "subCategoryId": 11,
+                "checked": false,
+                "subCategoryName": "top"
+            },
+            {
+                "subCategoryId": 12,
+                "checked": false,
+                "subCategoryName": "SemiElastico"
+            }
+        ]
+    },
+    {
+        "categoryId": 2,
+        "categoryName": "Manta de Lactancia",
+        "subCategory": [
+            {
+                "subCategoryId": 21,
+                "checked": false,
+                "subCategoryName": "Todos"
+            }
+        ]
+    },
+    {
+        "categoryId": 3,
+        "categoryName": "Cojn de Lactancia",
+        "subCategory": [
+            {
+                "subCategoryId": 30,
+                "checked": false,
+                "subCategoryName": "Todos"
+            }
+        ]
+    },
+    {
+        "categoryId": 4,
+        "categoryName": "Edicion Especial",
+        "subCategory": [
+            {
+                "subCategoryId": 40,
+                "checked": false,
+                "subCategoryName": "Todos"
+            }
+        ]
+    },
+    {
+        "categoryId": 5,
+        "categoryName": "Extras",
+        "subCategory": [
+            {
+                "subCategoryId": 50,
+                "checked": false,
+                "subCategoryName": "PC"
+            }
+        ]
+    } 
+]
