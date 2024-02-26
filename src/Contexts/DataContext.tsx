@@ -2,7 +2,7 @@ import { createContext, useState } from "react";
 import ProductsJson from '../Data/products.json';
 import { IPropsChildren } from '../Types/types';
 import { featured, recommended } from '../Utils/helpers';
-import images from '../../assets/images';
+
 
 export const GlobalContext = createContext({})
 
